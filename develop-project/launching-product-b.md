@@ -12,7 +12,7 @@
 ### 구매 로직 추상화로 중복 로직 제거
 상품 상속관계 활용하여 전략 패턴 적용
 ### 인터페이스에 사용하는 primitive type을 domain model로 전환
-> e.g. order id로 int 사용 -> int field 가진 OrderId 객체로 전환
+e.g. order id로 int 사용 -> int field 가진 OrderId 객체로 전환
 
 ## 얻은 것
 ### Persistence framework(mybatis) 활용한 domain model 구현
