@@ -6,7 +6,7 @@
 ### 개발 프로젝트 이력
 - [배치잡 프레임워크 적용](https://github.com/unitimes/resume/blob/master/develop-project/spring-batch-framework.md)
 - [A사 상품 제휴 API 서비스 domain model 개발](https://github.com/unitimes/resume/blob/master/develop-project/domain-model-for-api-a.md)
-- B상품 신규 출시
+- [B상품 신규 출시](https://github.com/unitimes/resume/blob/master/develop-project/launching-product-b.md)
 - C사 상품 제휴 API 서비스 개발
 - 기타 프로젝트
 ### 직업 이력
