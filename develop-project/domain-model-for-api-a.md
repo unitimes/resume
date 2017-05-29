@@ -19,7 +19,7 @@ N:1 관계에서 FK를 가지고 있지 않을 경우 outer join 가능성 높�
 ### Business context separation에 대한 이해
 단순 상품 연동 business context에서 상품 model은 DTO 수준의 역할만을 수행. 상품 type별 상이한 business logic 불필요한 상황에서 상품 type별 객체 정의는 과도한 리소스 투입일 수 있음
 
-**_적절한 규모의 business context 분리 _**
+**_적절한 규모의 business context 분리 필요_**
 
 과도한 세분화는 domain model 관리 비용을 증가시킴
 
