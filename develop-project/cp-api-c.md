@@ -18,6 +18,7 @@
 Gradle 멀티 프로젝트 빌드 시, 빌드 주체 프로젝트(maven의 module)의 application.properties가 다른 프로젝트의 application.properties를 덮어 씌워 설정이 적용되지 않음.
 
 **_spring.profiles.include property 활용하여 관리_**
+
 각 프로젝트 별 고유 프로파일을 부여.
 실제 설정 properties는 application-{프로젝트 고유 프로파일}.properties에 작성.
 build 주체 프로젝트의 application.properties 파일에 spring.profiles.include 설정하고 사용(연관관계)할 프로젝트의 고유 프로파일 나열.
@@ -28,8 +29,10 @@ interface간 extends 사용하여 validation group에 hierarchy 적용하여 활
 로그인 적합하지 않은 비지니스 환경.
 
 **_Authentication, Data integrity check_**
+
 Request의 Authorization header에 사용자 정보와 전송 데이터 일부를 사용자 고유 secret key로 암호화하여 첨부. 서버에서 동일한 암호화 과정을 거쳐 request의 Authorization header의 값과 비교.
 **_Authorization_**
+
 Spring security의 Authorities 활용
 ## 얻은 것(RESULT)
 ### Spring security 프레임워크 인터페이스 구현
