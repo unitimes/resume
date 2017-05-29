@@ -8,7 +8,7 @@
 - [A사 상품 제휴 API 서비스 domain model 개발](https://github.com/unitimes/resume/blob/master/develop-project/domain-model-for-api-a.md)
 - [B상품 신규 출시](https://github.com/unitimes/resume/blob/master/develop-project/launching-product-b.md)
 - [C사 상품 제휴 API 서비스 개발](https://github.com/unitimes/resume/blob/master/develop-project/cp-api-c.md)
-- 기타 프로젝트
+- [기타 프로젝트](https://github.com/unitimes/resume/blob/master/develop-project/etc.md)
 ### 직업 이력
 - 카카오 부동산 서비스 개발자 입사
 - 오리온 초콜릿 카테고리 브랜드 매니저 입사
