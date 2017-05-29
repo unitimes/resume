@@ -31,6 +31,7 @@ interface간 extends 사용하여 validation group에 hierarchy 적용하여 활
 **_Authentication, Data integrity check_**
 
 Request의 Authorization header에 사용자 정보와 전송 데이터 일부를 사용자 고유 secret key로 암호화하여 첨부. 서버에서 동일한 암호화 과정을 거쳐 request의 Authorization header의 값과 비교.
+
 **_Authorization_**
 
 Spring security의 Authorities 활용
