@@ -11,13 +11,16 @@ A사와 상품 연동하는 신규 서비스 프로젝트의 domain model 개발
 연관 관계에 대한 lazy loading 불가 시 join 비용 항상 발생.
 N:1 관계에서 FK를 가지고 있지 않을 경우 outer join 가능성 높음.
 **Hibernate bytecode enhancement 통해 모든 연관관계 lazy loading 구현**
-### @Embeddable 활용하여 역할 기반 객체 분리
-### extends 활용하여 domain model간 hierarchy 구현
-### interface implement 활용하여 hierarchy관계 아닌 domain model들 type categorizing
+### 객체 분리 고도화 및 타입 관계 고도화
+- @Embeddable 활용하여 역할 기반 객체 분리
+- extends 활용하여 domain model간 hierarchy 구현
+- interface implement 활용하여 hierarchy관계 아닌 domain model들 type categorizing
 ## 얻은 것(RESULT)
 ### Business context separation에 대한 이해
 단순 상품 연동 business context에서 상품 model은 DTO 수준의 역할만을 수행. 상품 type별 상이한 business logic 불필요한 상황에서 상품 type별 객체 정의는 과도한 리소스 투입일 수 있음
-#### 적절한 규모의 business context 분리
+
+**_적절한 규모의 business context 분리_**
+
 과도한 세분화는 domain model 관리 비용을 증가시킴
 
 > e.g. Db schema 수정 시 해당 table을 사용하는 모든 context의 domain model 수정 필요
