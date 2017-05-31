@@ -30,3 +30,5 @@
 ## 학업 이력
  - 한양대학교 경영학부 졸업
  - NHN NEXT 웹서버 전공 수료
+## 사용 가능 기술
+JAVA, Spring(Framework, Boot, Data Batch, Security, AMQP), JavaScript(JQuery 포함), HTML, CSS, linux 서버 관리(환경 설정, 배포 등), SQL, Oracle DB, MySql DB, Capistrano, Shell script
