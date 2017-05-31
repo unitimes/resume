@@ -15,6 +15,9 @@
 유지 보수 편한 가독성 좋은 코드 작성, domain oriented 구현 위해 자발적으로 공부하고 실제 코드에 적용.
 레퍼런스 문서 필독을 통해 이해 없는 기술 적용 지양.
 > **참조** [DDD 적용](https://github.com/unitimes/resume/blob/master/develop-project/cp-api-c.md#기술적-목적), [Bytecode enhancement](https://github.com/unitimes/resume/blob/master/develop-project/domain-model-for-api-a.md#복수건-쿼리-성능-최적화), [Spring batch 적용](https://github.com/unitimes/resume/blob/master/develop-project/spring-batch-framework.md), [MyBatis association 활용](https://github.com/unitimes/resume/blob/master/develop-project/launching-product-b.md#persistence-frameworkmybatis-활용한-domain-model-구현)
+### 커뮤니케이션 전문가
+커뮤니케이션, 협업 역량이 필수인 [브랜드 관리 업무](https://github.com/unitimes/resume/blob/master/job/oriron-bm.md) 수년간 수행.
+[Domain layer 수준 리팩토링](https://github.com/unitimes/resume/blob/master/develop-project/etc.md#퍼시스턴스-레이어-분리), [핵심 비지니스 로직 리팩토링](https://github.com/unitimes/resume/blob/master/develop-project/etc.md#쿼리-내-비지니스-로직-이관) 등에는 필수적으로 명확한 커뮤니케이션이 요구 됨. 리팩토링 범위 명확화, 리팩토링 진행 기간 리팩토링 대상 관련 유지 보수 업무 처리 전략 구축 등이 선행되어야 하기 때문.
 ### 우수한 외모와 유머 + 동안
 같은 값이면 다홍치마. 이왕이면 보기 좋고 어울리기 좋은 사람과 일하는 것이 좋기 때문에 훌륭한 역량.
 ## 개발 프로젝트 이력
@@ -25,7 +28,7 @@
  - [기타 프로젝트](https://github.com/unitimes/resume/blob/master/develop-project/etc.md)
 ## 직업 이력
  - [카카오 부동산 서비스 개발자 입사(2015.10 - 현재)](https://github.com/unitimes/resume/blob/master/job/kakao-developer.md)
- - [오리온 초콜릿 카테고리 브랜드 매니저 입사(2010.12 - 2013.02)](https://github.com/unitimes/resume/blob/master/job/orion-bm.md)
+ - [오리온 초콜릿 카테고리 브랜드 매니저 입사(2010.12 - 2013.02)](https://github.com/unitimes/resume/blob/master/job/oriron-bm.md)
  - [신한은행 행원 입사(2010.06 - 2010.10)](https://github.com/unitimes/resume/blob/master/job/shinhan-banker.md)
 ## 학업 이력
  - 한양대학교 경영학부 졸업
